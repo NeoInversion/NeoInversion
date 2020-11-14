@@ -1,9 +1,5 @@
 <h1>Hello there!</h1>
 
-I'm a programmer who enjoys reverse engineering and educating myself. Sometimes I create games on Roblox with my friend littensy.
+I’m a software and web developer who uses various languages, primarily C++ and Lua, sometimes using C#, Java, and JavaScript. I don’t like using Python or PHP, but they are part of my skill set.
 
-I know C++, C#, Java, Lua, Python, and while I don't particularly enjoy web development, I'm familiar with JavaScript and PHP.
-
-I mostly work in C++ and Lua.
-
-Discord: Inversion#9797
+If you wish to contact me, the preferred method is through Discord, which is found at Inversion#9797.
