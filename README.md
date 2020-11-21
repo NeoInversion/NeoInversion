@@ -3,7 +3,7 @@
 
 I’m a software and web developer who uses various languages, primarily C++ and Lua, sometimes using C#, Java, and JavaScript. I don’t like using Python or PHP, but they are part of my skill set.
 
-Unfortunately, I don't have many (public) repositories because most of my works are specifically tailored for my needs. If I create something useful and believe it'll be helpful for others, I'll release it here.
+Unfortunately, I don't have many public repositories because most of my works are specifically tailored for my needs. If I create something useful and believe it'll be helpful for others, I'll release it here.
 
 If you wish to contact me, the preferred method is through Discord, which is found at `Inversion#9797`.
 
@@ -16,4 +16,4 @@ If you wish to contact me, the preferred method is through Discord, which is fou
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=ffffff)](https://python.org)
 ## Stats
 [![](https://github-readme-stats.vercel.app/api?username=NeoInversion&theme=radical&count_private=true&show_icons=true&cache_seconds=1800)](https://github.com/NeoInversion)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoInversion&theme=radical&layout=compact&cache_seconds=1800)](https://github.com/NeoInversion)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoInversion&theme=radical&layout=compact&langs_count=8&cache_seconds=1800)](https://github.com/NeoInversion)
