@@ -1,3 +1,4 @@
+
 ## Hello! :wave:
 
 I’m a software and web developer who uses various languages, primarily C++ and Lua, sometimes using C#, Java, and JavaScript. I don’t like using Python or PHP, but they are part of my skill set.
@@ -13,3 +14,6 @@ If you wish to contact me, the preferred method is through Discord, which is fou
 [![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&labelColor=007396&logoColor=ffffff)](https://www.oracle.com/uk/java/technologies/javase-downloads.html)
 [![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&labelColor=339933&logoColor=ffffff)](https://nodejs.org)
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=ffffff)](https://python.org)
+## Stats
+[![](https://github-readme-stats.vercel.app/api?username=NeoInversion&theme=radical&count_private=true&show_icons=true)](https://github.com/NeoInversion)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoInversion&theme=radical&layout=compact)](https://github.com/NeoInversion)
